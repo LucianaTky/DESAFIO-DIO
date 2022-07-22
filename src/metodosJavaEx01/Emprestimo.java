@@ -1,4 +1,4 @@
-package métodosJava01;
+package metodosJavaEx01;
 
 public class Emprestimo {
 	
