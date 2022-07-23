@@ -1,4 +1,4 @@
-package logicaCondicionaleFluxosEx01;
+package logicaCondicionaleFluxos;
 
 public class operadoresRelacionais {
 
